@@ -1,0 +1,302 @@
+complaint,category
+Wi-Fi is not working in the MCA lab,IT
+Internet connection is very slow,IT
+Computer lab network is down,IT
+Cannot connect to campus Wi-Fi,IT
+Internet keeps disconnecting,IT
+Computer is not connecting to the internet,IT
+Wi-Fi signal is very weak in the classroom,IT
+Unable to access the college website,IT
+Computer is running very slowly,IT
+System is not starting properly,IT
+Computer screen is not displaying anything,IT
+Keyboard is not working,IT
+Mouse is not working,IT
+Printer is not connecting to the computer,IT
+Unable to print documents from the lab,IT
+Computer software is not opening,IT
+Programming software is not working,IT
+Compiler is showing an error,IT
+Computer keeps restarting automatically,IT
+System is getting stuck frequently,IT
+Internet is unavailable in the computer lab,IT
+Wi-Fi password is not working,IT
+Network connection is unstable,IT
+Computer cannot detect the network,IT
+Unable to login to the college portal,IT
+College portal is not responding,IT
+Student login is not working,IT
+Online attendance system is down,IT
+Server is not responding,IT
+Website is loading very slowly,IT
+Computer lab server is down,IT
+File sharing system is not working,IT
+Unable to access shared folder,IT
+Computer is infected with a virus,IT
+Antivirus software is not working,IT
+Operating system is showing errors,IT
+Computer is showing a blue screen,IT
+USB port is not detecting my device,IT
+Computer is not detecting the pen drive,IT
+Internet speed is extremely slow,IT
+Wi-Fi stops working frequently,IT
+Network cable is not working,IT
+Lab computer cannot access the server,IT
+Unable to download files from the portal,IT
+Email login is not working,IT
+College email service is down,IT
+Online examination portal is not working,IT
+Computer lab systems are unavailable,IT
+IT support is needed for the lab computer,IT
+Technical issue with the college network,IT
+Projector is not working in classroom,Equipment
+Projector display is blurry,Equipment
+The classroom projector has stopped working,Equipment
+Projector is showing a blank screen,Equipment
+Projector remote is not working,Equipment
+Projector brightness is very low,Equipment
+Projector is overheating,Equipment
+Projector is not connecting to laptop,Equipment
+Classroom speaker is not working,Equipment
+Speakers are producing distorted sound,Equipment
+Microphone is not working,Equipment
+Microphone sound is very low,Equipment
+Classroom audio system is not working,Equipment
+Laboratory printer is not working,Equipment
+Printer is showing an error,Equipment
+Printer is out of order,Equipment
+Scanner is not working,Equipment
+Scanner is not detecting documents,Equipment
+Photocopy machine is not working,Equipment
+Photocopy machine is producing unclear copies,Equipment
+Biometric machine is not working,Equipment
+Fingerprint scanner is not detecting fingerprints,Equipment
+Attendance machine is not working,Equipment
+Classroom television is not working,Equipment
+Display screen is not turning on,Equipment
+Smart board is not working,Equipment
+Smart board touch is not responding,Equipment
+Classroom camera is not working,Equipment
+Security camera is not displaying properly,Equipment
+Lab equipment is damaged,Equipment
+Computer monitor is damaged,Equipment
+Keyboard in the lab is damaged,Equipment
+Mouse in the lab is not working,Equipment
+Printer paper tray is damaged,Equipment
+Projector cable is damaged,Equipment
+HDMI cable is not working,Equipment
+Classroom speaker cable is damaged,Equipment
+Microphone cable is damaged,Equipment
+Lab UPS is not working,Equipment
+UPS is making unusual noise,Equipment
+Power backup equipment is not working,Equipment
+Digital display board is not working,Equipment
+Lecture recording equipment is not working,Equipment
+Classroom remote control is damaged,Equipment
+Projector lens is damaged,Equipment
+Printer is producing paper jams,Equipment
+Scanner is producing distorted images,Equipment
+Lab equipment requires repair,Equipment
+Classroom equipment needs maintenance,Equipment
+College audio visual equipment is not functioning,Equipment
+There is water leakage in the hostel,Water
+No water is available in the bathroom,Water
+Water pipe is leaking near the classroom,Water
+No water supply in the hostel,Water
+Water supply is very irregular,Water
+Drinking water is not available,Water
+Water cooler is empty,Water
+Water cooler is not working,Water
+Bathroom tap is leaking,Water
+Bathroom tap has no water,Water
+Water pressure is very low,Water
+Hostel water pressure is insufficient,Water
+Water tank is empty,Water
+Water tank is leaking,Water
+Water is overflowing from the tank,Water
+Water pipe is broken,Water
+Water pipeline is damaged,Water
+Dirty water is coming from the tap,Water
+Drinking water is contaminated,Water
+Water has a bad smell,Water
+Water cooler is giving warm water,Water
+Water purifier is not working,Water
+RO water system is not working,Water
+Water filter needs replacement,Water
+No water in the college washroom,Water
+Washroom water supply is interrupted,Water
+Hostel bathroom has no water,Water
+Water is leaking from the ceiling,Water
+Water is leaking near the hostel entrance,Water
+Pipeline is leaking in the campus,Water
+Water is accumulating near the building,Water
+Water drainage pipe is blocked,Water
+Water tap is broken,Water
+Multiple taps are not working,Water
+Water supply stops every morning,Water
+Water supply stops every evening,Water
+Hostel water supply is inadequate,Water
+Classroom drinking water facility is unavailable,Water
+Water dispenser is not working,Water
+Water cooler is leaking,Water
+Water purifier is leaking,Water
+Water tank cleaning is required,Water
+Water quality is poor,Water
+Tap water is muddy,Water
+No drinking water near the laboratory,Water
+Water supply problem in the canteen,Water
+Water leakage in the washroom,Water
+Water pipeline is making unusual noise,Water
+Water is overflowing from the bathroom,Water
+Urgent water supply problem in hostel,Water
+The classroom fan is not working,Electrical
+Ceiling fan is running very slowly,Electrical
+Classroom lights are not working,Electrical
+Tube light is flickering,Electrical
+Several lights are not working,Electrical
+Electrical switch is damaged,Electrical
+Power socket is not working,Electrical
+Electrical socket is loose,Electrical
+Power supply is unavailable in the lab,Electrical
+Frequent power cuts in the classroom,Electrical
+Electricity goes off frequently,Electrical
+Hostel room has no electricity,Electrical
+Hostel corridor lights are not working,Electrical
+Staircase lights are not working,Electrical
+Campus lights are not working,Electrical
+Street light near college is not working,Electrical
+Fan is making unusual noise,Electrical
+Fan is producing sparks,Electrical
+Electrical switch is producing sparks,Electrical
+Power socket is producing sparks,Electrical
+Classroom light keeps flickering,Electrical
+Electrical wiring is damaged,Electrical
+Exposed electrical wire is visible,Electrical
+Electrical panel is damaged,Electrical
+Main power switch is not working,Electrical
+Generator is not providing backup power,Electrical
+Power backup is not available,Electrical
+Classroom electricity supply is unstable,Electrical
+Lab electricity supply is unstable,Electrical
+Computer lab power is frequently interrupted,Electrical
+Electrical fuse keeps blowing,Electrical
+Fuse is damaged,Electrical
+MCB keeps tripping,Electrical
+Electrical circuit is overloaded,Electrical
+Hostel room fan is not working,Electrical
+Hostel room light is not working,Electrical
+Bathroom light is not working,Electrical
+Washroom light keeps flickering,Electrical
+Corridor fan is not working,Electrical
+Library lights are not working,Electrical
+Laboratory lights are too dim,Electrical
+Classroom fan speed controller is damaged,Electrical
+Electrical board is broken,Electrical
+Power outlet is damaged,Electrical
+Charging socket is not working,Electrical
+Emergency light is not working,Electrical
+Emergency power backup is not working,Electrical
+Electrical maintenance is required,Electrical
+Power supply problem in the classroom,Electrical
+Electricity problem in the hostel,Electrical
+The classroom is not clean,Cleanliness
+Classroom floor is dirty,Cleanliness
+Hostel room is not cleaned,Cleanliness
+Hostel corridor is dirty,Cleanliness
+Washroom is very dirty,Cleanliness
+College washroom needs cleaning,Cleanliness
+Toilet is not being cleaned regularly,Cleanliness
+Bad smell is coming from the washroom,Cleanliness
+Dustbins are overflowing,Cleanliness
+Garbage is not being collected,Cleanliness
+Garbage is lying near the classroom,Cleanliness
+Trash is scattered around the campus,Cleanliness
+College campus is dirty,Cleanliness
+Laboratory floor is dusty,Cleanliness
+Computer lab needs cleaning,Cleanliness
+Library floor is dirty,Cleanliness
+Canteen area is not clean,Cleanliness
+Canteen tables are dirty,Cleanliness
+Food waste is not being removed,Cleanliness
+Garbage is accumulating near the canteen,Cleanliness
+Hostel garbage bins are overflowing,Cleanliness
+Hostel bathroom is unhygienic,Cleanliness
+Hostel common area is dirty,Cleanliness
+Staircase is full of dust,Cleanliness
+Campus garden has garbage,Cleanliness
+Plastic waste is lying on the ground,Cleanliness
+Garbage collection is irregular,Cleanliness
+Cleaning staff have not cleaned the classroom,Cleanliness
+Classroom benches are dusty,Cleanliness
+Desks are dirty,Cleanliness
+Blackboard is not cleaned,Cleanliness
+Whiteboard is dirty,Cleanliness
+Laboratory equipment is dusty,Cleanliness
+Computer tables are dirty,Cleanliness
+Window glass is dirty,Cleanliness
+Fans are covered with dust,Cleanliness
+Ceiling is covered with cobwebs,Cleanliness
+Washbasin is dirty,Cleanliness
+Washroom floor is wet and dirty,Cleanliness
+Toilet area has a bad smell,Cleanliness
+Garbage is not disposed properly,Cleanliness
+Cleaning is required near the entrance,Cleanliness
+Campus pathway is dirty,Cleanliness
+Hostel dining area is dirty,Cleanliness
+Water cooler area is dirty,Cleanliness
+Library tables are dusty,Cleanliness
+Classroom windows are dusty,Cleanliness
+College premises need cleaning,Cleanliness
+Sanitation problem in the hostel,Cleanliness
+Cleanliness staff are not cleaning regularly,Cleanliness
+The laboratory machine is not starting,Mechanical
+The machine is making unusual noise,Mechanical
+The motor is overheating frequently,Mechanical
+The machine is vibrating excessively,Mechanical
+The conveyor belt is not moving,Mechanical
+The machine belt is broken,Mechanical
+The motor is not running properly,Mechanical
+The machine is producing a strange sound,Mechanical
+The equipment is getting overheated,Mechanical
+The machine stops suddenly during operation,Mechanical
+The motor is making a grinding noise,Mechanical
+The mechanical pump is not working,Mechanical
+The pump is leaking water,Mechanical
+The machine gears are not working properly,Mechanical
+The gear mechanism is making noise,Mechanical
+The machine shaft is damaged,Mechanical
+The rotating part of the machine is stuck,Mechanical
+The machine bearing is damaged,Mechanical
+The bearing is producing excessive noise,Mechanical
+The machine is shaking while operating,Mechanical
+The mechanical fan is not rotating,Mechanical
+The fan belt is loose,Mechanical
+The machine pulley is damaged,Mechanical
+The pulley is not rotating properly,Mechanical
+The compressor is not working,Mechanical
+The compressor is making unusual noise,Mechanical
+The air pressure in the machine is very low,Mechanical
+The mechanical valve is not opening,Mechanical
+The valve is leaking,Mechanical
+The hydraulic system is not working,Mechanical
+The hydraulic pump is not generating pressure,Mechanical
+The hydraulic pipe is leaking,Mechanical
+The machine cylinder is not moving,Mechanical
+The piston is getting stuck,Mechanical
+The machine requires excessive force to operate,Mechanical
+The machine produces excessive vibration,Mechanical
+The mechanical joint is loose,Mechanical
+The machine screws are coming loose,Mechanical
+The machine coupling is damaged,Mechanical
+The mechanical drive is not working,Mechanical
+The machine chain is broken,Mechanical
+The chain mechanism is getting stuck,Mechanical
+The machine lubrication system is not working,Mechanical
+The machine needs lubrication,Mechanical
+The machine is overheating during long operation,Mechanical
+The mechanical parts are worn out,Mechanical
+The machine is not operating at normal speed,Mechanical
+The machine speed keeps fluctuating,Mechanical
+The machine produces a burning smell,Mechanical
+The mechanical equipment needs maintenance,Mechanical
+The laboratory mechanical equipment is not functioning,Mechanical

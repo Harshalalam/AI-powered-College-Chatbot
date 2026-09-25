@@ -1,0 +1,114 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi", "hello", "hey", "good morning", "good afternoon", "good evening",
+        "namaste", "hi there", "hello there", "hey there"
+      ],
+      "responses": [
+        "Hello! Welcome to College Helpdesk. How can I assist you today?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye", "goodbye", "see you", "thank you", "thanks", "thank you so much", "ok bye"
+      ],
+      "responses": [
+        "Thank you for contacting us. Have a great day!"
+      ]
+    },
+    {
+      "tag": "enquiry_admission",
+      "patterns": [
+        "what is the admission process", "how can i get admission", "admission criteria",
+        "documents required for admission", "last date of admission", "eligibility for admission",
+        "how to apply for admission", "admission process", "want admission"
+      ],
+      "responses": [
+        "Admission is based on merit. Please visit the admission office or check the college website for details."
+      ]
+    },
+    {
+      "tag": "enquiry_fees",
+      "patterns": [
+        "what is the fee structure", "how much is the tuition fee", "fee payment process",
+        "can i pay fees online", "last date for fee payment", "scholarship available",
+        "what is the college fee", "fee structure", "college fees", "tuition fee",
+        "i want to know about fee", "tell me about fees", "know about scholarship",
+        "scholarship details", "is scholarship available", "fee details",
+        "i want to know about college fee structure", "what's the fee structure",
+        "want to know about scholarship", "information about fees"
+      ],
+      "responses": [
+        "Please check the official fee structure on the college website. Online payment is also available. For scholarship details, contact the scholarship section."
+      ]
+    },
+    {
+      "tag": "enquiry_timetable",
+      "patterns": [
+        "when does the semester start", "class timetable", "exam schedule",
+        "academic calendar", "when will exams start", "timetable", "semester start date"
+      ],
+      "responses": [
+        "Please check the academic calendar available on the college portal for semester and exam dates."
+      ]
+    },
+    {
+      "tag": "enquiry_holiday",
+      "patterns": [
+        "is there holiday tomorrow", "list of holidays", "college closed on",
+        "vacation dates", "is sunday a holiday", "holiday list"
+      ],
+      "responses": [
+        "Please refer to the official holiday list published on the college website."
+      ]
+    },
+    {
+      "tag": "enquiry_general",
+      "patterns": [
+        "where is the library", "college timings", "how to get id card",
+        "where is admin office", "canteen facility", "wifi password",
+        "library timings", "college working hours"
+      ],
+      "responses": [
+        "Please contact the administration office or check the college website for this information."
+      ]
+    },
+    {
+      "tag": "complaint",
+      "patterns": [
+        "i have a complaint", "i want to register a complaint", "wifi is not working",
+        "there is water leakage", "projector is not working", "classroom is dirty",
+        "fan is not working", "no electricity", "internet is slow", "printer is not working",
+        "there is no water", "water problem", "no water in class", "light is not working",
+        "register a complaint", "complaint about"
+      ],
+      "responses": [
+        "I can help you register a complaint. Please describe the issue in detail."
+      ]
+    },
+    {
+      "tag": "complaint_status",
+      "patterns": [
+        "what is the status of my complaint", "check complaint status",
+        "my complaint ticket", "update on my complaint", "complaint status"
+      ],
+      "responses": [
+        "Please provide your Complaint Ticket ID so I can check the status."
+      ]
+    },
+    {
+      "tag": "other",
+      "patterns": [
+        "who is the prime minister", "tell me a joke", "what is the weather",
+        "i saw a snake", "what is machine learning", "random question",
+        "who are you", "play music", "tell me a story"
+      ],
+      "responses": [
+        "I'm sorry, I can only help with college-related enquiries and complaints."
+      ]
+    }
+  ]
+}
