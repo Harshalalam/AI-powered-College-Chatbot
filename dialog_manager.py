@@ -5,9 +5,7 @@ import json
 from datetime import datetime
 from preprocessing import preprocess_text
 
-# ==========================================
 # Load Models
-# ==========================================
 with open("models/intent_model.pkl", "rb") as f:
     intent_model = pickle.load(f)
 
@@ -20,20 +18,20 @@ with open("models/complaint_model.pkl", "rb") as f:
 with open("models/tfidf_complaint.pkl", "rb") as f:
     complaint_vectorizer = pickle.load(f)
 
-# ==========================================
+
 # Load Intents (for responses)
-# ==========================================
+
 with open("data/intents.json", "r", encoding="utf-8") as f:
     intents_data = json.load(f)
 
-# Create a dictionary for quick response lookup
+# dictionary for quick response lookup
 intent_responses = {}
 for intent in intents_data["intents"]:
     intent_responses[intent["tag"]] = intent["responses"]
 
-# ==========================================
-# Helper Functions
-# ==========================================
+
+# Helper
+
 def get_intent(text):
     cleaned = preprocess_text(text)
     vector = intent_vectorizer.transform([cleaned])
@@ -62,9 +60,9 @@ def get_priority(text):
             return "High"
     return "Medium"
 
-# ==========================================
+
 # Main Dialog Function
-# ==========================================
+
 def get_response(user_message):
     intent, intent_conf = get_intent(user_message)
     
@@ -72,15 +70,15 @@ def get_response(user_message):
     if intent_conf < 0.15:
         intent = "other"
     
-    # ---------- GREETING ----------
+    # GREETING 
     if intent == "greeting":
         return random.choice(intent_responses["greeting"])
     
-    # ---------- GOODBYE ----------
+    #GOODBYE
     elif intent == "goodbye":
         return random.choice(intent_responses["goodbye"])
  
-   # ---------- COMPLAINT ----------
+   #COMPLAINT
     elif intent == "complaint":
         category, conf = get_complaint_category(user_message)
         ticket_id = generate_ticket_id()
@@ -99,15 +97,15 @@ def get_response(user_message):
         )
         return response    
 
-    # ---------- COMPLAINT STATUS ----------
+    #COMPLAINT STATUS
     elif intent == "complaint_status":
         return "Please provide your Complaint Ticket ID so I can check the status."
     
-    # ---------- ENQUIRY INTENTS ----------
+    #ENQUIRY INTENTS
     elif intent.startswith("enquiry_"):
         return random.choice(intent_responses.get(intent, 
                ["Please contact the administration office for this information."]))
     
-    # ---------- OTHER / UNKNOWN ----------
+    #OTHER / UNKNOWN
     else:
         return "I'm sorry, I can only help with college-related enquiries and complaints."
